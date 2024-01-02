@@ -31,7 +31,7 @@ Before you begin, ensure that your system meets the following requirements:
 ### Installation
 
 1. **Download the Setup File:**
-   - Obtain the setup file for MS_Patient_ER from [here](#).
+   - Obtain the setup file for MS_Patient_ER from [here](https://github.com/drkalani/MS_Patient_ER_Setup/tree/main/Debug).
 
 2. **Run the Installer:**
    - Double-click the setup file to run the installation wizard.
